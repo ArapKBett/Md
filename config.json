@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_USER_TOKEN_HERE",
+  "prefix": "!",
+  "mass_dm_command": "massdm",
+  "log_file": "logs/bot.log"
+}
